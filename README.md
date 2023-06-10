@@ -46,3 +46,7 @@ This project is licensed under the [MIT License](https://chat.openai.com/LICENSE
 ----------
 
 This README file provides a general guide for CurrencyApp, an Android application. For more specific details about the project, such as how to run or configure it, please refer to the appropriate documentation or guides provided within the project's repository.
+
+
+
+![](https://github.com/enesulkerr/Currency-App/blob/master/image/currencyApp.gif)
