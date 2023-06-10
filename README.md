@@ -49,4 +49,6 @@ This README file provides a general guide for CurrencyApp, an Android applicatio
 
 
 
-![](https://github.com/enesulkerr/Currency-App/blob/master/image/currencyApp.gif)
+<div align="center">
+<img src="https://github.com/enesulkerr/Currency-App/blob/master/image/currencyApp.gif" width="300">
+<div align="center">
