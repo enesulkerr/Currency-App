@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/abd"
+        android:title="@string/abd_dolari" />
+    <item
+        android:id="@+id/avusturya"
+        android:title="@string/avustralya_dolari" />
+    <item
+        android:id="@+id/danimarka"
+        android:title="@string/dan_marka_kronu" />
+    <item
+        android:id="@+id/euro"
+        android:title="@string/euro" />
+    <item
+        android:id="@+id/ingiliz"
+        android:title="@string/ng_l_z_sterl_n" />
+    <item
+        android:id="@+id/isviçre"
+        android:title="@string/sv_re_frangi" />
+    <item
+        android:id="@+id/isveç"
+        android:title="@string/sve_kronu" />
+    <item
+        android:id="@+id/kanada"
+        android:title="@string/kanada_dolari" />
+    <item
+        android:id="@+id/kuveyt"
+        android:title="@string/kuveyt_d_nari" />
+    <item
+        android:id="@+id/norveç"
+        android:title="@string/norve_kronu" />
+
+
+
+
+
+</menu>
